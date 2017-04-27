@@ -1,2 +1,2 @@
 # prueba
-Aprendizaje con un Repositorio de Prueba.
+Aprendiendo Github con un Repositorio de Prueba.
